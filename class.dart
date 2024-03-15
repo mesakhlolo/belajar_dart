@@ -11,7 +11,7 @@ void main() {
 }
 
 class Person {
-  String? name, sex;
+  String? name, sex; // nullable types
   int? age;
 
   // Constructor
